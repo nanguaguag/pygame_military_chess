@@ -407,13 +407,15 @@ def whereToGo(pos):
 
 这是用`pyinstaller`打包后的游戏界面有个大大的【军棋】框：
 
-<img src="%E6%95%88%E6%9E%9C%E4%B8%80.png" alt="效果一" style="zoom: 67%;" />
+​	![](/Users/huzongyu/Downloads/gzip/pygame课题/images/效果一.png)
 
 点了【军棋】后会出现军棋界面：
 
-<img src="%E6%95%88%E6%9E%9C%E4%BA%8C.png" style="zoom: 50%;" />
+![](/Users/huzongyu/Downloads/gzip/pygame课题/images/效果二.png)
 
 然后就可以愉快的玩耍啦！！！！！！！！！！！
+
+![](/Users/huzongyu/Downloads/gzip/pygame课题/images/效果三.png)
 
 ### 手机端
 
@@ -424,7 +426,7 @@ def whereToGo(pos):
 3. 导入$junqi.py$文件
 4. 运行
 
-![](%E6%95%88%E6%9E%9C%E5%9B%9B.jpg)
+![](/Users/huzongyu/Downloads/gzip/pygame课题/images/效果四.jpg)
 
 ## 有待解决的问题
 
